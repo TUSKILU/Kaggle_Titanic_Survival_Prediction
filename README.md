@@ -19,7 +19,7 @@ titanic_clean.py => function for cleaning data
 <b>cabin</b>	Cabin number	  
 <b>embarked</b>  
 
-# Data Engineering
+## Data Engineering
 The Feature Engineer I have done here are as follows:
 
 - Create new feature: "family size" from the combination of features "Sibsp" and "parch"
