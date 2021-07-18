@@ -6,7 +6,7 @@ All contains are Written by myself
 titanic.py => main function
 titanic_clean.py => function for cleaning data
 
-# Works
+
 ## Data description
 <b>survival</b>	Survival	0 = No, 1 = Yes  
 <b>pclass</b>	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd  
@@ -19,6 +19,8 @@ titanic_clean.py => function for cleaning data
 <b>cabin</b>	Cabin number	  
 <b>embarked</b>  
 
+
+# Works
 ## Data Engineering
 The Feature Engineer I have done here are as follows:
 
